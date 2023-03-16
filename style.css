@@ -109,7 +109,6 @@ nav ul li a {
 
 .news {
     display: flex;
-    flex-direction: column;
     padding: 30px;
     position: relative;
 }
